@@ -1,6 +1,3 @@
-<h1 align = "center">Data Mining Project Report</h1>
-<p align = "center"><i>Devansh Bhardwaj (210150010) and Subhash Patel (210150017)</i></p>
-
 # Introduction
 
 The main aim of this project was to assign labels of 10 clusters (from 0 to 9) to 11952 graph nodes. We were given the folowing data:
